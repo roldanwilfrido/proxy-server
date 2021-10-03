@@ -28,3 +28,6 @@ docker run -p8080:8080 proxy-server:latest
 ### PROXY-SERVER details
 Path base: `http://localhost:8080/google/search?q=<criteria>"`
 
+Any further information please email me to [roldanhollow@gmail.com](mailto:roldanhollow@gmail.com)
+
+Enjoy! 
